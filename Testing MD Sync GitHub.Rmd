@@ -1,8 +1,0 @@
----
-title: "Testing Markdown Sync"
-author: "DennisJH"
-date: "December 12, 2014"
-output: html_document
----
-## Testing for sync with GitHub
-I am just running a test.
